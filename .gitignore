@@ -1,0 +1,7 @@
+[connections.mysql]
+type = "mysql"
+host = "localhost"
+port = 3306
+database = "Fitness"
+username = "root"
+password = "CPSC408!"
